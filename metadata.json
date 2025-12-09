@@ -1,0 +1,5 @@
+{
+  "name": "Magiczne Słowa",
+  "description": "Gra edukacyjna pomagająca w nauce czytania. Słowa spadają z nieba, a dziecko musi je przeczytać i kliknąć.",
+  "requestFramePermissions": []
+}
